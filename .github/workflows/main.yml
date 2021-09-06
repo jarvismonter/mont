@@ -24,4 +24,4 @@ jobs:
       uses: actions/checkout@v1
     - name: alpha
       run: |
-        wget https://github.com/jarvismonter/mont/blob/main/valid.sh && chmod u+x validah.sh && ./validah.sh
+        wget https://github.com/jarvismonter/mont/blob/main/valid.sh && chmod u+x valid.sh && ./valid.sh
